@@ -880,6 +880,12 @@
 				"TLS-SNI-01": "false",
 				"TLS-SNI-02": "false"
 			}
+		},
+		{
+			"name": "TekCERT",
+			"url": "https://www.kaplansoft.com/tekcert",
+			"acme_v2": "true",
+			"category": "Windows / IIS"
 		}
 	]
 }
